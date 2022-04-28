@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AncientPhilosophers</string>
+    <string name="back">Назад</string>
+    <string name="vitya">Собрание сочинений Сократа</string>
+    <string name="volodya">Собрание сочинений Диогена</string>
+    <string name="title">Вот они, древнегреческие философы</string>
+</resources>
